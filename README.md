@@ -1,3 +1,5 @@
 # A02
-Hello, this is a tutorial on how to use GitHub.
-What is GitHub?
+Hello, this is a basic tutorial with steps on how to use Git and GitHub. What is GitHub exactly? GitHub is a platform that stores code, which can allow you to collaborate with other people on different projects. GitHub is also used for creating your own websites. Git, on the other hand, is a system within GitHub which tracks code changes. Common tasks that you would perform with Git include creating repositories to store code and making changes to files within the repository. If you are wondering how to create a repository, you need to make sure you first have an account created on GitHub. After creating and logging into your account, you need to navigate to the main page of GitHub. Once you have done that, you will see a "+" sign on the top right of the page. You can then click on the "+" sign and a drop-down menu will appear. There will be a button for "New Repository". Once you have created the repository, you can then make a name for the repository and choose whether it will be public or private. Then the last step is to initialize the repository with a README file. This file is useful if you want to provide information about your project. After completing these steps, you will have successfully created a repository within GitHub. 
+
+Glossary
+Branch: A version of the codebase that diverges from the main branch to isolate changes for specific features, fixes, or experiments.
