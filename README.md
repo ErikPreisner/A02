@@ -28,3 +28,11 @@ Hello, this is a basic tutorial with steps on how to use Git and GitHub. What is
 **Remote**: A common repository that all team members use to exchange their changes.
 
 **Repository**: A storage location where your project lives, containing all the files and revision history.
+
+**Sources**
+
+https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/#heading-terms
+
+https://www.geeksforgeeks.org/git/merge-conflicts-and-how-to-handle-them/
+
+https://medium.com/@deshayk/github-text-formatting-101-6dfbd9b5dc8c
